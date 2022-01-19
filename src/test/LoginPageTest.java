@@ -2,7 +2,7 @@ package test;
 
 public class LoginPageTest {
 
-	public static void test1() {
-		System.out.println("test1 - Login Page");
+	public static void main(String a[]) {
+		System.out.println("Login Page test - Login Page");
 	}
 }

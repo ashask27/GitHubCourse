@@ -2,10 +2,14 @@ package Pages;
 
 public class LoginPage {
 
-	public static void main(String a[]) {
-		System.out.println("Login Page");
+	public void login() {
+		System.out.println("Login Page - logout");
 		
 		String name = "asha";
 		System.out.println(name);
+	}
+	
+	public void logout() {
+		System.out.println("Login Page - logout");	
 	}
 }

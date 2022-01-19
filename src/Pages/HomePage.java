@@ -1,8 +1,8 @@
 package Pages;
 
 public class HomePage {
-
-	public static void main(String a[]) {
+	
+	public void test() {
 		System.out.println("Home Page");
 	}
 }
